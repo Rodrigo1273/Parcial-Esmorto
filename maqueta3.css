@@ -1,0 +1,82 @@
+nav {
+    width: 1000px; 
+    height: 100px; 
+    background-color: #92ff71; 
+    border: 5px solid #000; 
+
+}
+.cuadrado  {
+    width: 184px; 
+    height: 70px; 
+    background: rgb(255, 255, 255); 
+    border: 1px solid #000; 
+    position: absolute;
+    top: 20px;
+}
+header  {
+    width: 1000px; 
+    height: 300px;
+    background-color: dodgerblue;
+    border: 5px solid #000; 
+
+}
+.rectangulo{
+    width: 800px;
+    height: 280px;
+    background-color: white;
+    border: 1px solid #000;
+    position: absolute;
+    top: 130px;
+    left: 20px;
+}
+
+.login{
+    width: 160px;
+    height: 75px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000;
+    position: absolute;
+    left: 835px;
+}
+
+main{
+    width: 1000px; 
+    height: 500px;
+    background-color: rgb(87, 81, 81);
+    border: 5px solid #000; 
+
+}
+aside{
+    width: 200px; 
+    height: 460px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000; 
+    top: 450px;
+    position: absolute;
+
+}
+article{
+    width: 480px; 
+    height: 460px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000; 
+    left: 260px;
+    top: 450px;
+    position: absolute;
+}
+
+footer{
+    width: 1000px; 
+    height: 50px;
+    background-color: rgb(255, 238, 0);
+    border: 5px solid #000; 
+
+}
+
+.texto {
+    text-align: center; 
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
