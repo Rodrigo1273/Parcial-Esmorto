@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "purgecss --css sass/custom.css --content CDN.html --output sass/reducido.css"
+  }
+}
+{
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "purgecss --css sass/custom1.css --content parte2.html --output sass/reducido.css"
+  }
+}
+
+
